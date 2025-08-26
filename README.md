@@ -22,7 +22,8 @@ https://www.bznhsjsj.id.vn/
 ---
 
 ## 🏆 Thành tựu GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=ThangLmao1112&theme=radical&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=ThangLmao1112&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
 
 ---
 
