@@ -1,7 +1,7 @@
 # 👋 Xin chào, mình là Thắng  
 
 🎓 Sinh viên Công nghệ thông tin  
-💻 Yêu thích: Web Development, Mobile Apps, AI  
+💻 Yêu thích: Gamet, Mobile Apps, AI  
 🌱 Hiện đang học: React, Node.js, Python, C#  
 
 ---
@@ -25,4 +25,4 @@
 ## 🔗 Liên hệ
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-📧 Email: yourname@gmail.com
+📧 Email: thang14563@gmail.com
