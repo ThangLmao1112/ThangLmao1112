@@ -21,21 +21,9 @@ https://www.bznhsjsj.id.vn/
 
 ---
 
-## 🏆 Thành tựu GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=ThangLmao1112&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-
-
----
-
 ## 📊 Thống kê GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThangLmao1112&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThangLmao1112&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak (chuỗi commit)
-![GitHub Streak](https://streak-stats.demolab.com?user=ThangLmao1112&theme=radical)
-
 
 ---
 
